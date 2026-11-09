@@ -20,7 +20,7 @@ The page is based on:
 
 - the talk "Economic Value of Radiology AI: A World Tour" (EuSoMII Annual Meeting 2026);
 - the talk "The Global View: How AI Pricing and Reimbursement Differ Outside the US" (RSNA 2026);
-- the paper "Who Pays for Radiology AI? A Comparative Review of Reimbursement Models Across 17 Health Systems" (in preparation).
+- the paper "Who Pays for Radiology AI? A Comparative Review of Reimbursement Models Across 18 Health Systems" (in preparation).
 
 Payment policy changes often. Status is as of October 2026; check the cited sources before acting on any figure.
 
