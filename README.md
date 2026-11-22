@@ -25,7 +25,7 @@ Payment policy changes often. Status is as of November 2026; check the cited sou
 
 ## Contribute
 
-Corrections and country information are welcome via the [contribution form](https://forms.gle/sdej4zACCfrQKRtr8).
+Do you want to contribute to this research and/or have corrections or information on AI pricing and reimbursement in your country? Please share it through the [contribution form](https://forms.gle/sdej4zACCfrQKRtr8).
 
 ## Author
 
